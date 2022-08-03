@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="hint">indice</string>
+    <string name="toggle">basculer</string>
+    <string name="myButton">monBouton</string>
+    <string name="textHere">texteIci</string>
+</resources>
